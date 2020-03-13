@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="计时器_windows_0_1.exe" newVersion="0.1" newMediaFileId="60" fileSize="44713472" md5Sum="f2743c0c6e4b7bb74aa4016e1b1e3e29" bundledJre="windows-x86-1.8.0_192" archive="false" singleBundle="false">
+    <comment language="zh_CN" />
+  </entry>
+</updateDescriptor>
